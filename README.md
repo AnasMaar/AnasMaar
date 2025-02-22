@@ -16,7 +16,6 @@ optimizing systems, or crafting creative solutions, I'm always pushing the bound
 
 🔹 Frequenta – AI-powered classroom seating optimizer 📚
 🔹 DeepENV – Google Chrome extension for optimized web searches 🔎
-🔹 MANTIS Project – Introduced to MIT-led AI research 🤯
 
 
 🏋️‍♂️ Beyond Tech
