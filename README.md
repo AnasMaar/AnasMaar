@@ -1,25 +1,14 @@
-🌍 Anas Maarouf | AI Explorer & Problem-Solver 🚀
-Hey there! 👋 I'm Anas, a 15-year-old AI & Tech enthusiast with a passion for machine learning, problem-solving, and innovation. Whether it's building AI models, 
-optimizing systems, or crafting creative solutions, I'm always pushing the boundaries of what’s possible.
+**Anas Maarouf | AI Explorer & Problem-Solver**
 
-🔥 What I Do
+I’m **Anas**, a **16-year-old technology enthusiast** with a strong interest in **artificial intelligence**, **machine learning**, and **creative problem-solving**. I enjoy **building models**, **optimizing systems**, and **developing innovative solutions** that push the boundaries of what’s possible.
 
-🤖 Machine Learning & AI – Exploring TensorFlow & PyTorch, fascinated by AI's potential.
-🚀 Tech & Development – Skilled in Python, JavaScript, PHP, and web technologies.
-🎮 Game Dev & Automation – Lua scripting & AI-powered optimizations.
-🏆 MIT Global Teaching Labs Intern – Recognized by MIT instructors for my AI & engineering potential.
-📈 Entrepreneurial & Marketing Mindset – Experience in e-commerce & business strategies.
-🎭 Creative Side – Passion for video editing, filmmaking & music.
+**What I Do**
 
+* **Explore** and experiment with AI technologies
+* **Develop projects** that blend logic, creativity, and technical skill
+* **Continuously learn** and refine my understanding of emerging tools and methods
 
-🛠️ Projects & Experience
-
-🔹 Frequenta – AI-powered classroom seating optimizer 📚
-🔹 DeepENV – Google Chrome extension for optimized web searches 🔎
+I approach every challenge with **curiosity**, **humility**, and a **genuine drive to improve**—not only as a technologist, but as a thinker and creator.
 
 
-🏋️‍♂️ Beyond Tech
-
-🎼 Piano player | 🏆 National-level chess competitor | 🥋 MMA, Kickboxing, Taekwondo
-📚 Philosophy & Self-Improvement | 🌍 Loves travelling
-
+(Totally Not AI generated 😊)
