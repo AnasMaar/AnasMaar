@@ -1,4 +1,4 @@
-**Anas Maarouf | AI Explorer & Problem-Solver**
+**Anas Maarouf**
 
 I’m **Anas**, a **16-year-old technology enthusiast** with a strong interest in **artificial intelligence**, **machine learning**, and **creative problem-solving**. I enjoy **building models**, **optimizing systems**, and **developing innovative solutions** that push the boundaries of what’s possible.
 
