@@ -14,6 +14,5 @@
                   #######
                     ###
                      #
+(Totally Not AI generated 😊)
 </pre>
-
-<p align="center"><sub>(Totally Not AI generated 😊)</sub></p>
