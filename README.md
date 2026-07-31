@@ -1,14 +1,15 @@
-**Anas Maarouf**
+<div align="center">
 
-I’m **Anas**, a **16-year-old technology enthusiast** with a strong interest in **artificial intelligence**, **machine learning**, and **creative problem-solving**. I enjoy **building models**, **optimizing systems**, and **developing innovative solutions** that push the boundaries of what’s possible.
+# Hi, I'm Anas.
 
-**What I Do**
+I enjoy learning how things work and building thoughtful software along the way.
 
-* **Explore** and experiment with AI technologies
-* **Develop projects** that blend logic, creativity, and technical skill
-* **Continuously learn** and refine my understanding of emerging tools and methods
+</div>
 
-I approach every challenge with **curiosity**, **humility**, and a **genuine drive to improve**—not only as a technologist, but as a thinker and creator.
+---
 
+I'm interested in artificial intelligence, machine learning, and tools that help people think, create, and solve problems.
 
-(Totally Not AI generated 😊)
+Most of what I share here is a work in progress — a place to experiment, learn, and improve.
+
+Thanks for stopping by.
